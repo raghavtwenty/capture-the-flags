@@ -6,7 +6,7 @@ https://2024.angstromctf.com/
 
 ### 🌟 MILESTONES 🌟
 
-🏆 Ranked 459th place out of 923 participants globally
+🏆 Ranked 459th place out of 831 participants globally
 <br><br><br>
 
 ### CTF TIMELINE
@@ -26,12 +26,12 @@ Rating weight: 72.06
 
 | Challenge     | Category  | Write Up           | Points |
 |---------------|-----------|--------------------------|--------|
-| Sanity Check   | Misc      | [README](sanity_check/sanity_check.md) | 10    |
-| Putnam   | Misc    | [README](putnam/putnam.md) | 10    |
-| Trip   | Misc | [README](trip/trip.md) | 30    |
-| Layers   | Crypto | [README](layers/layers.md) | 50    |
-| Guess The Flag   | Rev | [README](guess_the_flag/guess_the_flag.md) | 20    |
-| Spinner   | Web | [README](spinner/spinner.md) | 50    |
+| Sanity Check   | Misc      | [README](sanity_check/README.md) | 10    |
+| Putnam   | Misc    | [README](putnam/README.md) | 10    |
+| Trip   | Misc | [README](trip/README.md) | 30    |
+| Layers   | Crypto | [README](layers/README.md) | 50    |
+| Guess The Flag   | Rev | [README](guess_the_flag/README.md) | 20    |
+| Spinner   | Web | [README](spinner/README.md) | 50    |
 
 <br><br>
 
