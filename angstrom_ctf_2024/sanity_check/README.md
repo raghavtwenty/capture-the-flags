@@ -24,7 +24,7 @@ Misc
 ```
 }egassem_terces_ym_edoced_uoy_did_woh{ftca
 ```
-5. Reverse it, You will get
+4. Reverse it, You will get
 ```
 actf{how_did_you_decode_my_secret_message}
 ```
