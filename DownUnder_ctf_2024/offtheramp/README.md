@@ -34,9 +34,9 @@ the image and discover the name of the structure <br>
 
 ![1](1.png)
 
-4. It's  DUCTF{olivers_ hill_ boat_ramp}
+4. It's  olivers_hill_boat_ramp
 ```
-olivers_ hill_ boat_ramp
+DUCTF{olivers_hill_boat_ramp}
 ```
 <br><br>
 
