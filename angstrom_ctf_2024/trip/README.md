@@ -29,8 +29,8 @@ https://files.actf.co/fdea3784a76afd8110498bd596653c433e3f5206bc0fa87f28a5edbd0a
 37° 56' 23.598" N
 75° 26' 17.112" W
 ```
-4. Head over to Maps and paste the values
-5. It's CHINCOTEAGUE RD
+3. Head over to Maps and paste the values
+4. It's CHINCOTEAGUE RD
 ```
 actf{chincoteague}
 ```
