@@ -28,7 +28,7 @@ https://files.actf.co/b2d1ba18d7fcc3ef5e9c0c09ac07ae7d01519ee5cfb2fdfc8ba88b8e9d
 ```
 `bugzbnllhuude^un^uid^md`ru^md`ru^rhfohgh`ou^ch|
 ```
-7. Copy paste into CyberChef use XOR with key 0x1 (HEX)
+6. Copy paste into CyberChef use XOR with key 0x1 (HEX)
 ```
 actf{committed_to_the_least_significant_bit}
 ```
